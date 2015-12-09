@@ -1,0 +1,6 @@
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\bin\Debug\FractionDemo.exe.config
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\obj\Debug\FractionDemo.csprojResolveAssemblyReference.cache
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\bin\Debug\FractionDemo.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\bin\Debug\FractionDemo.pdb
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\obj\Debug\FractionDemo.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter9Labs\FractionDemo\obj\Debug\FractionDemo.pdb
